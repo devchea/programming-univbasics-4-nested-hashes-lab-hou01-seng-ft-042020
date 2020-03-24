@@ -130,5 +130,5 @@ def adding_to_dennis
       }
     }
 	programmer_hash.merge!([:dennis_ritchie][:languages])
-	programmer_hash
+	return programmer_hash
 end
